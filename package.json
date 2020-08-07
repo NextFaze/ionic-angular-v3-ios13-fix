@@ -1,0 +1,31 @@
+{
+  "bugs": {
+    "url": "https://github.com/ionic-team/ionic/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A patch fix for ionic v3 that supports iPads running iOS 13",
+  "es2015": "es2015/index.js",
+  "homepage": "https://github.com/ionic-team/ionic#readme",
+  "keywords": [
+    "ionic",
+    "framework",
+    "mobile",
+    "app",
+    "hybrid",
+    "webapp",
+    "cordova",
+    "progressive web app",
+    "pwa"
+  ],
+  "license": "MIT",
+  "main": "umd/index.js",
+  "module": "index.js",
+  "name": "ionic-angular",
+  "peerDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ionic-team/ionic.git"
+  },
+  "version": "3.9.11"
+}
